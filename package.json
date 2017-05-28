@@ -1,0 +1,9 @@
+{
+  "name": "cggh1homework",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^2.2.2",
+    "typings": "^2.1.1",
+    "ts-node": "^3.0.2"
+  }
+}

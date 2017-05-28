@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es6",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "outDir": "static/build/",
+        "outFile": "static/build/cgcode.js"
+    },
+    "files": [
+        "typings/index.d.ts","ts/midare.d.ts","ts/main.ts"
+    ]
+}
